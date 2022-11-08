@@ -320,7 +320,7 @@ html.is-animating .transition-fade{
 
 
 
-.secondcontainer {margin-left:21vh;  width:100%; display:flex; justify-content:space-between; white-space: pre-wrap;}
+.secondcontainer {margin-left:21vh;  width:50%; display:flex; justify-content:space-between; white-space: pre-wrap;}
 .pitemartist {width:20vw; margin-top:5vh}
 .picurrent2 {width:30vw; margin-top:0vh}
 .pitem {width:20vw; margin-top:8vh}
