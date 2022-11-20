@@ -54,15 +54,15 @@ strong {
 
 
 .pitemartist {width:20vw; margin-top:5vh}
-.picurrent {padding-left: 12vh; width:auto; margin-top:11vh}
+.picurrent {padding-left: 10vh; width:auto; margin-top:11vh}
 
 
 
-.picurrent2 {padding-left: 12vh; width: auto; margin-top:0vh;}
+.picurrent2 {padding-left: 10vh; width: auto; margin-top:0vh;}
 
-.picurrent3 {padding-left: 12vh; width: auto; margin-top:-1vh;}
+.picurrent3 {padding-left: 10vh; width: auto; margin-top:-1vh;}
 
-.picurrent4 {padding-left: 12vh; width: auto; margin-top:0vh; padding-bottom: 1vh}
+.picurrent4 {padding-left: 10vh; width: auto; margin-top:0vh; padding-bottom: 1vh}
 
 
 .newcontainer {width:90vw; display:flex; justify-content:space-between; transition:0s !important;}
@@ -414,15 +414,15 @@ audio {
 	
 	
 	
-.picurrent {padding-left: 4vh; width:auto; margin-top:11vh; padding-bottom: 1vh;}
+.picurrent {padding-left: 4vh; width:410px; margin-top:11vh; padding-bottom: 2vh;}
 	
 		
-.picurrent2 {padding-left: 4vh; width: auto; margin-top:0vh; white-space: pre-wrap; padding-bottom: 1vh;}
+.picurrent2 {padding-left: 4vh; width: 410px; margin-top:0vh; white-space: pre-wrap; padding-bottom: 2vh;}
 	
 	
-.picurrent3 {padding-left: 4vh; width: auto; }
+.picurrent3 {padding-left: 4vh; width: 410px; padding-bottom: 2vh; }
 
-.picurrent4 {padding-left: 4vh; width: auto;}
+.picurrent4 {padding-left: 4vh; width: 410px; padding-bottom: 2vh;}
 
 	
 .caroplanebackdrop {height:87vh;}	
