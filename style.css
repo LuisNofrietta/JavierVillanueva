@@ -54,12 +54,15 @@ strong {
 
 
 .pitemartist {width:20vw; margin-top:5vh}
-.picurrent {padding-left: 21vh; width:auto; margin-top:11vh}
+.picurrent {padding-left: 16vh; width:auto; margin-top:11vh}
 
 
 
-.picurrent2 {padding-left: 21vh; width: auto; margin-top:0vh;}
+.picurrent2 {padding-left: 16vh; width: auto; margin-top:0vh;}
 
+.picurrent3 {padding-left: 16vh; width: auto; margin-top:-1vh;}
+
+.picurrent4 {padding-left: 16vh; width: auto; margin-top:0vh; padding-bottom: 1vh}
 
 
 .newcontainer {width:90vw; display:flex; justify-content:space-between; transition:0s !important;}
@@ -350,6 +353,8 @@ audio {
  opacity:1 !important;	
  margin-top:2vh !important;		
 	
+
+	
 	
 	
 }	
@@ -406,22 +411,22 @@ audio {
 	
 
 .temppage {width:100vw; height:88vh; display:flex; align-items:center; justify-content:center;}
+	
+	
+	
+.picurrent {padding-left: 4vh; width:auto; margin-top:11vh; padding-bottom: 1vh;}
+	
 		
+.picurrent2 {padding-left: 4vh; width: auto; margin-top:0vh; white-space: pre-wrap; padding-bottom: 1vh;}
+	
+	
+.picurrent3 {padding-left: 4vh; width: auto; }
 
+.picurrent4 {padding-left: 4vh; width: auto;}
 
 	
 .caroplanebackdrop {height:87vh;}	
 
-.picurrent {padding-left: 7vh; width:auto; margin-top:11vh}
-	
-		
-.picurrent2 {padding-left: 7vh; width: auto; margin-top:0vh; white-space: pre-wrap;}
-	
-	
-	
-	
-	
-	
 .temppage	h1 	{ font-weight:normal; text-indent:none; font-size:3vw; line-height:4vw; letter-spacing:0;} 	
 
 .bg {height:86vh;}
@@ -802,12 +807,7 @@ audio {
 	.element-item 	{ width:50%;}
 		
 	h1 				{ font-weight:normal; text-indent:none; font-size:3.6vw; line-height:4.5vw; letter-spacing:0;} 	
-	h2				{ font-weight:normal; text-indent:none; font-size:7.75vw; line-height:8.75vw; letter-spacing:0;}
-	h3				{ font-weight:normal; font-size:3.25vw; line-height:4vw;} 
-	h4				{ text-indent:none;font-size:60px; line-height:80px; letter-spacing:-2px;}
-	h6				{ font-weight:normal; text-indent:none; font-size:7.75vw; line-height:8.75vw; letter-spacing:0;}
-	h7				{ font-weight:normal; text-indent:none; font-size:15vw; line-height:15vw; letter-spacing:-2px;}
-	h5				{ font-weight:normal; text-indent:none; font-size:5vw; line-height:6vw; letter-spacing:0;}
+
 	
 
 	input, button, submit { color:#111; font-family: "Romain"; border:none; background:none; font-weight:normal; text-indent:none; font-size:3.6vw; line-height:4.5vw; letter-spacing:0; } 
