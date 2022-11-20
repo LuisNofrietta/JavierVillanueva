@@ -414,15 +414,15 @@ audio {
 	
 	
 	
-.picurrent {padding-left: 3vh; width:410px; margin-top:11vh; padding-bottom: 4vh;}
+.picurrent {padding-left: 3vh; width: auto; margin-top:11vh; padding-bottom: 4vh;}
 	
 		
-.picurrent2 {padding-left: 3h; width: 410px; margin-top:0vh; white-space: pre-wrap; padding-bottom: 4vh;}
+.picurrent2 {padding-left: 3h; width: auto; margin-top:0vh; white-space: pre-wrap; padding-bottom: 4vh;}
 	
 	
-.picurrent3 {padding-left: 3vh; width: 410px; padding-bottom: 4vh; }
+.picurrent3 {padding-left: 3vh; width: auto; padding-bottom: 4vh; }
 
-.picurrent4 {padding-left: 3vh; width: 410px; padding-bottom: 4vh;}
+.picurrent4 {padding-left: 3vh; width: auto; padding-bottom: 4vh;}
 
 	
 .caroplanebackdrop {height:87vh;}	
