@@ -860,7 +860,7 @@ and (orientation : landscape) {
 }	
 	
 .maincontainer {
-	width:90vw;
+	width:100vw;
 	margin-left:5vw;
 	z-index:900000 !important;
 	white-space: nowrap;
@@ -934,7 +934,7 @@ audio {
 .democontain {
 	position:relative;
 	height:auto;
-	width:90vw;
+	width:100vw;
 	top:0;
 	left:0;
 	margin-left:5vw;
