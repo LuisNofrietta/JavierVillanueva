@@ -956,7 +956,7 @@ audio {
 .pitem {width:42vw; margin-right:3vw; margin-top:2.5vh;}
 .xitem {width:45vw; margin-top:2.5vh}	
 
-.newcontainer {width:100%; display:flex; justify-content:space-between; flex-wrap: wrap;}
+.newcontainer {width:100%; display:flex; justify-content:space-between; flex-wrap: nowrap;}
 .newsitem {width:48%; margin-right:2%;}
 	
 	
