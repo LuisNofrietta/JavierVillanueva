@@ -310,7 +310,12 @@ audio {
 
 
 
+@media (max-widht: 576px) {
 
+	h1 {font-size:3rem;
+	   }
+
+}
 
 
 
