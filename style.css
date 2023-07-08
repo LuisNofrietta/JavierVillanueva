@@ -399,7 +399,7 @@ audio {
 	
 .artistbutton {margin-top:3vh; margin-bottom:3vh;}	
 .pitem2 {width:100%; margin-right:5%; margin-top:1.5vh}	
-.picurrent {fontsize:15px; width:100%; margin-right:5%; margin-top:1.5vh}	
+.picurrent {width:100%; margin-right:5%; margin-top:1.5vh}	
 	
 
 	
@@ -416,7 +416,7 @@ audio {
 
 	
 	
-.picurrent {padding-left: 3vh; width:auto; margin-top:11vh; padding-bottom: 1vh;}
+.picurrent {padding-left: 3vh; width:auto; margin-top:11vh; padding-bottom: 1vh;fontsize:10px}
 	
 		
 .picurrent2 {padding-left: 4vh; width: auto; margin-top:0vh; white-space: nowrap; padding-bottom: 1vh;}
