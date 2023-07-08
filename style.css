@@ -362,7 +362,7 @@ audio {
 	
 	
 	
-.vimeoContainer {width:200%; padding-top:1vh; padding-bottom:1vh; height:25vh;} 
+.vimeoContainer {width:100%; padding-top:1vh; padding-bottom:1vh; height:25vh;} 
 	
 	
 .flickity-button{
@@ -416,7 +416,7 @@ audio {
 
 	
 	
-.picurrent {padding-left: 3vh; width:auto; margin-top:11vh; padding-bottom: 1vh; fontsize:1.5rem}
+.picurrent {padding-left: 3vh; width:auto; margin-top:11vh; padding-bottom: 1vh;}
 	
 		
 .picurrent2 {padding-left: 4vh; width: auto; margin-top:0vh; white-space: nowrap; padding-bottom: 1vh;}
@@ -433,7 +433,7 @@ audio {
 	
 .caroplanebackdrop {height:87vh;}	
 
-.temppage	h1 	{ font-weight:normal; text-indent:none; font-size:3vw; line-height:4vw; letter-spacing:0;} 	
+.temppage	h1 	{ font-weight:normal; text-indent:none; font-size:2vw; line-height:4vw; letter-spacing:0;} 	
 
 .bg {height:86vh;}
 .imgpanel {height:87vh;}
