@@ -341,7 +341,7 @@ audio {
 
 
 
-@media only screen and (min-width: 414px) {
+@media only screen and (max-width: 414px) {
 	
 	
 	
@@ -383,12 +383,7 @@ audio {
 .topmargins {margin-right:1.5vw;}
 	
 .margins {margin-top:2.5vw; margin-bottom:2.5vw;}		
-	
-table, th, td {width: 100% !important;}	
-.recordingTable {width: 100% !important;}
-audio {
-	width:60vw;
-}	
+
 	
 .module img {
 	margin-top:.75vh !important;	
