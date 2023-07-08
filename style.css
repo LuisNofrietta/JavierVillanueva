@@ -304,6 +304,11 @@ audio {
 
 
 
+--fs-xl: 5rem;
+--fs-600: 1.5rem;
+--fs-500: 1.5rem;
+--fs-400: 1.5rem;
+
 
 
 
@@ -312,7 +317,7 @@ audio {
 
 @media (max-widht: 576px) {
 
-	h1 {font-size:3rem;
+	font-size: {var (--fs-400: 1.5rem) ;
 	   }
 
 }
